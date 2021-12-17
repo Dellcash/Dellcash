@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dellcash?
+- 👋 Hi, Am i @Dellcash?
 - 👀 I’m interested in code ...?
 - 🌱 I’m currently learning god state ...?
 - 💞️ I do not looking to collaborate on ...?

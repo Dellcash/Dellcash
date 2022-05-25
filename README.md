@@ -19,9 +19,6 @@ const d3llcash = {
   code: ['Javascript'],
   askMeAbout: ['web dev', 'tech', 'app dev', 'problem solver'],
   technologies: {
-    backEnd: {
-      back: ['...', '...'],
-    },
     frontend: {
       front: [
         'HTML',
@@ -33,8 +30,6 @@ const d3llcash = {
         'Nuxt'
       ],
     },
-    devOps: ['...', '...'],
-    databases: ['...', '...'],
   },
   currentFocus: 'Building Admin Dashboard!',
   funFact:

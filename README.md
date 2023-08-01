@@ -17,21 +17,20 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 const d3llcash = {
   pronouns: 'He' | 'Him',
   code: ['Javascript'],
-  askMeAbout: ['web dev', 'tech', 'app dev', 'problem solver'],
+  askMeAbout: ['web dev', 'app dev', 'problem solver'],
   technologies: {
     frontend: {
       front: [
-        'HTML',
-        'CSS',
-        'SCSS',
-        'Tailwind.css'
         'Vue',
+        'Nuxt',
+        'SCSS',
         'Pinia',
-        'Nuxt'
+        'Quasar',
+        'Tailwind.css'
       ],
     },
   },
-  currentFocus: 'Building Admin Dashboard!',
+  currentFocus: 'I am currenty working in Torfeh Negar company and Taban!',
   funFact:
     'There are two ways to write error-free programs; only the third one works',
 }
